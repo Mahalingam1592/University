@@ -1,6 +1,10 @@
 package org.univ;
 
 public class University   {
+	private void hi() {
+	System.out.println("hi sri");
+
+	}
 	public void ug() {
 	System.out.println("bachelor is ug");
 
