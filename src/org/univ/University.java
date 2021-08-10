@@ -10,6 +10,10 @@ public class University   {
 	
 
 	}
+	private void hi() {
+		System.out.println("hiiiiii");
+
+	}
 public static void main(String[] args) {
 	
 	
